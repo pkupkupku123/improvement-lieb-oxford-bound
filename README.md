@@ -1,6 +1,6 @@
 # An Improvement on the Lieb–Oxford Bound
 
-Data and code for Ye Li's manuscript (19 October 2026), supporting Table II,
+Data and code for Ye Li's manuscript (19 October 2026, Submitted to Phys. Rev. A), supporting Table II,
 Figure 1, and Appendix C. The verified bound is **C_LO ≤ 1.5342**.
 
 ## Quick start
