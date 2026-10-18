@@ -1,0 +1,7 @@
+# Tested numerical/plotting environment: CPython 3.12.1, Windows x64.
+# Exact verification and the default quick check use only the standard library.
+numpy==1.26.4
+scipy==1.12.0
+numba==0.61.2
+llvmlite==0.44.0
+matplotlib==3.8.3

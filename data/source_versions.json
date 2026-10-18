@@ -1,0 +1,14 @@
+{
+  "code/plot_profiles.py": "ac4e0b48482b4b6951c4d98b2339b1bb4e2f9ec3d1431f3bdd2566cb1bd86a35",
+  "code/multichannel_lo/active_model.py": "7afd72201aa97d37ecd550f53e085fae6095540603890600ff169ecb43f6bdcc",
+  "code/multichannel_lo/channel_certificate.py": "2f1985fca041928be3a55f1a71ebdb89efbf288854393d4e0e4e856225ff79ab",
+  "code/multichannel_lo/model.py": "55fe0e5e6e137876222ad523b7fd1c32ee4f7d13d471824179dd3c1a2ec6faf8",
+  "code/multichannel_lo/refine.py": "921dcbca008b3dccff8b13fea475eef090a3568bd960b9c1dcf66cea98430cf7",
+  "code/multichannel_lo/search.py": "1573d3770494298de7451850a7fa40be9ea2e3a589ab4535aa115ad61ffc2f5c",
+  "code/psd_lo/build_covariance_certificate.py": "44a071e0b4c98983ecef6510064d1728557a60a2cf30752b6f7febbd79ffe2f5",
+  "code/psd_lo/fast_shell_matrices.py": "8826e4a1f19088427127aada325a3bf89a6a505a554317a1110131dffe54c9c4",
+  "code/signed_lo/build_certificate.py": "46249defe5be2c1f6c425f15de768f743189fab305ba89d9990ade13fc513d4c",
+  "code/signed_lo/search_profile.py": "bb75697f1e61bb5b743903293203e3583a5568363040f73a2c2e69d017216a3b",
+  "code/verification/verify_parallel.py": "4329d2b489ab35bfbcc70075ebf5213bdd3e10edbd72dad4b5b5fead50b2e82c",
+  "code/verification/verify_signed_lo_certificate.py": "c9108a741ad99484bbef7c03fc217bde2894bf415c4a22d9b3e6c027023ebb04"
+}

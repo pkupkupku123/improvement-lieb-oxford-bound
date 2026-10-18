@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using these data or code."
+title: "Data and code for An Improvement on the Lieb--Oxford Bound"
+type: software
+authors:
+  - family-names: Li
+    given-names: Ye
+version: "2026.10.19"
+preferred-citation:
+  type: unpublished
+  title: "An Improvement on the Lieb--Oxford Bound"
+  authors:
+    - family-names: Li
+      given-names: Ye
+  year: 2026

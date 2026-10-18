@@ -1,0 +1,3 @@
+# Preserve exact bytes of scientific inputs and audited code on every platform.
+# The verifier/dispatcher and historical receipts are bound by SHA-256 hashes.
+* -text
